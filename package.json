@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name":"TODO",
+    "email": "todo@todo.com"
+  },
+  "name": "TODO",
+  "description": "TODO",
+  "version": "0.0.1",
+  "homepage": "TODO",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "devDependencies": {
+    "mocha" : "latest",
+    "requirejs" : "latest",
+    "chai" : "latest",
+    "grunt" : "latest",
+    "jsdom" : "latest",
+    "xmlhttprequest" : "latest",
+    "grunt-mocha" : "latest",
+    "grunt-requirejs" : "latest"
+  }
+}

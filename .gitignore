@@ -167,3 +167,9 @@ pip-log.txt
 #######
 
 node_modules
+
+###################################
+## Build paths and temp files etc..
+###################################
+dist
+build/tmp
